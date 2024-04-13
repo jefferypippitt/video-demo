@@ -1,6 +1,6 @@
 "use client";
 
-import Footer from '@/components/footer';
+import Footer from '@/components/Footer'
 import HeroSection from '@/components/HeroSection'
 
 import Navbar from '@/components/Navbar'
