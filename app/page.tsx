@@ -1,6 +1,9 @@
+"use client";
+
+import Footer from '@/components/footer';
 import HeroSection from '@/components/HeroSection'
-import Footer from '@/components/ui/footer'
-import Navbar from '@/components/ui/Navbar'
+
+import Navbar from '@/components/Navbar'
 
 export default function Home() {
   return (
